@@ -1,0 +1,24 @@
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Spring Boot ###
+*.log
+logs/
+
+### Config locale ###
+application-local.properties
+
+
+### Java ###
+*.class
+*.jar
+
+### IntelliJ ###
+.idea/
+*.iml
+*.iws
+out/
+
+### Variables ###
+.env
